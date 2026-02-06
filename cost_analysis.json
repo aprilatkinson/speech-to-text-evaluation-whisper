@@ -1,0 +1,31 @@
+{
+  "single_file": {
+    "duration_seconds": 86.014667,
+    "duration_minutes": 1.4335777833333334,
+    "price_per_min_usd": 0.006,
+    "estimated_cost_usd": 0.008601466700000001,
+    "estimated_cost_usd_rounded": 0.008601
+  },
+  "monthly_scenarios": [
+    {
+      "monthly_hours": 10,
+      "monthly_minutes": 600,
+      "estimated_cost_usd": 3.6
+    },
+    {
+      "monthly_hours": 50,
+      "monthly_minutes": 3000,
+      "estimated_cost_usd": 18.0
+    },
+    {
+      "monthly_hours": 100,
+      "monthly_minutes": 6000,
+      "estimated_cost_usd": 36.0
+    },
+    {
+      "monthly_hours": 300,
+      "monthly_minutes": 18000,
+      "estimated_cost_usd": 108.0
+    }
+  ]
+}
